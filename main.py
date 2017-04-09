@@ -16,7 +16,7 @@ from email.mime.text import MIMEText
 from email.utils import COMMASPACE, formatdate
 from email import encoders
 
-op_day = 2
+op_day = 1
 
 def send_mail(files=[]):
     
